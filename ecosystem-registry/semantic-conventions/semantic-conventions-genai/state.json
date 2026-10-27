@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "semantic-conventions-genai": {
+      "cursor": null,
+      "order": [
+        "semantic-conventions-genai@ebe3d1fb9fdd.."
+      ],
+      "reconcile": [],
+      "revisions": {
+        "semantic-conventions-genai@ebe3d1fb9fdd..": {
+          "commit": "e19717d65f890955777b044bca2a3cd71ae8b498",
+          "kind": "range",
+          "source": "semantic-conventions-genai",
+          "status": "pending"
+        }
+      }
+    }
+  }
+}
